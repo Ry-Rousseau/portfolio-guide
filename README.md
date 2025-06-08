@@ -1,4 +1,45 @@
-# Data Science Portfolio
+# 🗺️ Ryan's Portfolio
+
+Welcome to my data portfolio! Here I document my projects in data analysis, machine learning, visualization and end-to-end research.
+
+Every project uses real-world data that I gathered, pre-processed and merged into final datasets. Most projects involve all aspects of data science, but they are grouped based on their primary focus. 
+
+I'm particularly proud of my MSc Dissertation and Authoritarian Banking Crises paper, which demonstrate novel research in social science using advanced data science techniques. 
+
+## Table of Contents
+- [Data Analysis and Visualization](#data-analysis-and-visualization)
+- [Machine Learning](#machine-learning)
+- [Deep Learning](#deep-learning)
+- [Network Analysis](#network-analysis)
+- [Artificial Intelligence](#artifical-intelligence)
+
+****
+
+### Data Analysis and Visualization
+| Project Link | Area | Project Description | Libraries/Tools |    
+|---|---|---|---|
+| 👮 [UK Police Stop and Search](https://htmlpreview.github.io/?https://github.com/Ry-Rousseau/ds-portfolio/blob/main/data-analysis-exploration/uk-police-stop-search-investigation/Stop-Search-Report.html) | Visualization, Data Collection, SQL, R | A visual analysis of bias in stop and search rates amongst UK police, extracting data from APIs, storing in relational database, drawing conclusions from visual evidence | ggplot2, tidyverse, GeoJSON, APIs, SQL, Relational Database |   
+| 🏫 [Primary School Network Analysis](https://htmlpreview.github.io/?https://github.com/Ry-Rousseau/ds-portfolio/blob/main/data-analysis-exploration/education-network-analysis/education_network_analysis.html) | Visualization, Network Analysis, R | An analysis of 6th-8th grade social networks based on measured indicators of social interaction, creating visualizations, feature engineering, extracting inter-personal dynamics for social insight | igraph, tidyverse, R | 
+
+****
+
+### Machine Learning
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+| ❎ [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
+| 🐶 [Dog Adoption](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
+
+***
+
+### Deep Learning
+|---|---|---|---|
+| 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
+| 🐶 [Dog Adoption](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
+
+
+## SQL
+
+
 
 A collection of data science projects showcasing skills in machine learning, statistical analysis, and data visualization across diverse domains.
 
