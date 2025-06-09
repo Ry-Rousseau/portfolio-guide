@@ -54,9 +54,6 @@ Every project uses real-world data that I gathered, pre-processed and merged int
 
 ### 🔗 Connect
 
-**Email:** [your.email@domain.com]  
+**Email:** [ryanhrousseau@gmail.com]  
 **LinkedIn:** [https://www.linkedin.com/in/ryan-rousseau-24104b230/)]  
 
----
-
-*This portfolio demonstrates practical application of data science techniques across multiple domains, emphasizing end-to-end data pipelines and clear communication of insights.*
