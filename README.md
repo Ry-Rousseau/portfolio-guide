@@ -2,7 +2,7 @@
 
 Welcome to my data portfolio! Here I document my projects in data analysis, machine learning, visualization and end-to-end research.
 
-Every project uses real-world data that I gathered, pre-processed and merged into final datasets. Projects are grouped based on their primary focus in data science. Featured projects include projects I'm particularly proud of, which provide new contributions in my areas of research. 
+Every project uses real-world data that I gathered, pre-processed and merged into final datasets. Projects are grouped based on their primary focus in data science. Featured projects include projects I'm particularly proud of. 
 
 ## Table of Contents
 - [Featured Projects](#featured-projects)
