@@ -40,7 +40,7 @@ Every project uses real-world data that I gathered, pre-processed and merged int
 ### Deep Learning
 | Project Link | Completion Date | Project Description | Methods/Tools |    
 |---|---|---|---|
-| 📈 [Stock Price Predictor (LSTM Neural Network)](https://github.com/Ry-Rousseau/ds-portfolio/tree/main/machine-learning/ml-civil-war-classifier) | January 2024 | Develops a neural network for predicting short-term changes in stock price for technology-based ticker symbols. Uses grid search for hyperparameter optimization and adapts to time-series analysis via long short-term memory network design. Achieves accuracy in predicting direction of future 10-minute price movement in 61% of minutes in test data. | Python (Keras, Tensorflow, Pandas, Scikit-learn, Matplotlib), LaTeX |
+| 📈 [Stock Price Predictor (LSTM Neural Network)](https://github.com/Ry-Rousseau/ds-portfolio/tree/main/deep-learning/LSTM-net-stock-predictor) | January 2024 | Develops a neural network for predicting short-term changes in stock price for technology-based ticker symbols. Uses grid search for hyperparameter optimization and adapts to time-series analysis via long short-term memory network design. Achieves accuracy in predicting direction of future 10-minute price movement in 61% of minutes in test data. | Python (Keras, Tensorflow, Pandas, Scikit-learn, Matplotlib), LaTeX |
 
 ***
 
